@@ -1,0 +1,3 @@
+Let's learn some Git
+
+Practice is important
